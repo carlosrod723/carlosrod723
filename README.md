@@ -25,8 +25,13 @@
 
 ### R Libraries:
 | ggplot2 | dplyr | tidyr | readr | caret | randomForest | xgboost | Shiny |
-|---------|-------|-------|------|-------|--------------|---------|-------|
+|:-------:|:-----:|:-----:|:-----:|:-----:|:------------:|:-------:|:-----:|
 | <img src="https://www.rstudio.com/wp-content/uploads/2014/04/ggplot2.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> | <img src="https://dplyr.tidyverse.org/logo.png" title="dplyr" alt="dplyr" width="55" height="55"/> | <img src="https://tidyr.tidyverse.org/logo.png" title="tidyr" alt="tidyr" width="55" height="55"/> | <img src="https://readr.tidyverse.org/logo.png" title="readr" alt="readr" width="55" height="55"/> | **_caret_** 🌟 | **_randomForest_** 🌲 | <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="xgboost" alt="xgboost" width="55" height="55"/> | <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" title="Shiny" alt="Shiny" width="55" height="55"/> |
+
+### Data Manipulation:
+| Jupyter | Google Colab | PostgreSQL | BigQuery |
+|:-------:|:------------:|:----------:|:--------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | **BigQuery** 📊 |
 
 
 
