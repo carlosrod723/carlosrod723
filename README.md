@@ -5,6 +5,7 @@
 - 🤖 Passionate about AI, machine learning, and deep learning. 
 - 🌱 Actively expanding my knowledge in:
     * Python & its ML libraries (NumPy, Pandas, scikit-learn, tensorflow, etc.)
+    * ML models and concepts
     * Cloud ML platforms (AWS SageMaker, GCP Vertex AI)
     * SQL (PostgreSQL, BigQuery)
     * The entire ML workflow
