@@ -11,8 +11,6 @@
 - 💼 Eager to apply my skills to real-world projects and open to new opportunities.
 - 📫 Let's connect! carlos.rodriguezacosta@gmail.com
 
-#### Programming Languages:
-
 ### Languages:
 | Python | R |
 |----------|----------|
@@ -21,10 +19,14 @@
 
 ### Python Libraries:
 | NumPy | Pandas | SciPy | Matplotlib | Seaborn | scikit-learn | TensorFlow | Keras | Statsmodels |
-|-------|--------|-------|------------|---------|-------------|-----------|-------|------------|
+|:-----:|:------:|:-----:|:----------:|:-------:|:------------:|:----------:|:-----:|:-----------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/scipy/scipy/raw/main/doc/source/_static/logo.svg" title="SciPy" alt="SciPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/seaborn.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" title="Statsmodels" alt="Statsmodels" width="100" height="55"/> |
 
 
+### R Libraries:
+| ggplot2 | dplyr | tidyr | readr | caret | randomForest | xgboost | Shiny |
+|---------|-------|-------|------|-------|--------------|---------|-------|
+| <img src="https://www.rstudio.com/wp-content/uploads/2014/04/ggplot2.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> | <img src="https://dplyr.tidyverse.org/logo.png" title="dplyr" alt="dplyr" width="55" height="55"/> | <img src="https://tidyr.tidyverse.org/logo.png" title="tidyr" alt="tidyr" width="55" height="55"/> | <img src="https://readr.tidyverse.org/logo.png" title="readr" alt="readr" width="55" height="55"/> | **_caret_** 🌟 | **_randomForest_** 🌲 | <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="xgboost" alt="xgboost" width="55" height="55"/> | <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" title="Shiny" alt="Shiny" width="55" height="55"/> |
 
 
 
