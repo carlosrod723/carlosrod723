@@ -33,6 +33,11 @@
 |:-------:|:------------:|:----------:|:--------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | **BigQuery** 📊 |
 
+### ☁️The Cloud ☁️:
+| Amazon Web Services | Google Cloud Platform |
+|:-------------------:|:---------------------:|
+| <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" title="Amazon Web Services" alt="Amazon Web Services" width="100" height="60"/> | <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" title="Google Cloud Platform" alt="Google Cloud Platform" width="100" height="60"/> |
+
 
 
 <!---
