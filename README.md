@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @carlosrod723
-- 👀 I’m interested in ... Machine Learning
+- 🙂 Hi, I’m @carlosrod723
+- 🤖 I’m interested in ... Machine Learning
 - 🌱 I’m currently learning ... Machine Learning
-- 💞️ I’m looking to collaborate on ... Machine Learning projects
+- 💻 I’m looking to collaborate on ... Machine Learning projects
 - 📫 How to reach me ... carlos.rodriguezacosta@gmail.com
 
 
