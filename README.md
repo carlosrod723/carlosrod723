@@ -9,7 +9,7 @@
     * Cloud ML platforms (AWS SageMaker, GCP Vertex AI)
     * SQL (PostgreSQL, BigQuery)
     * The entire ML workflow
-- 💻 Currently working on the 'home-depot-financial-analysis' repository
+- 💻 Currently working on my 'home-depot-financial-analysis' repository
 - 💼 Eager to apply my skills to real-world projects and open to new opportunities.
 - 📫 Let's connect! carlos.rodriguezacosta@gmail.com
 
