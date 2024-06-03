@@ -7,6 +7,7 @@
     * Python & its ML libraries (NumPy, Pandas, scikit-learn, tensorflow, etc.)
     * ML models and concepts
     * Cloud ML platforms (AWS SageMaker, GCP Vertex AI)
+    * Statistic pertinent to ML
     * SQL 
     * The entire ML workflow
 - 💼 Eager to apply my skills to real-world projects and open to new opportunities.
