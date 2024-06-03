@@ -7,7 +7,7 @@
     * Python & its ML libraries (NumPy, Pandas, scikit-learn, tensorflow, etc.)
     * ML models and concepts
     * Cloud ML platforms (AWS SageMaker, GCP Vertex AI)
-    * SQL (PostgreSQL, BigQuery)
+    * SQL 
     * The entire ML workflow
 - 💼 Eager to apply my skills to real-world projects and open to new opportunities.
 - 📫 Let's connect! carlos.rodriguezacosta@gmail.com
