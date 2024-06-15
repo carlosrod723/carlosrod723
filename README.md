@@ -31,14 +31,15 @@
 | <img src="https://www.rstudio.com/wp-content/uploads/2014/04/ggplot2.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> | <img src="https://dplyr.tidyverse.org/logo.png" title="dplyr" alt="dplyr" width="55" height="55"/> | <img src="https://tidyr.tidyverse.org/logo.png" title="tidyr" alt="tidyr" width="55" height="55"/> | <img src="https://readr.tidyverse.org/logo.png" title="readr" alt="readr" width="55" height="55"/> | **_caret_** 🌟 | **_randomForest_** 🌲 | <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="xgboost" alt="xgboost" width="55" height="55"/> | <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" title="Shiny" alt="Shiny" width="55" height="55"/> |
 
 #### Data Manipulation:
-| Jupyter | Google Colab | PostgreSQL | BigQuery | Kaggle | Posit Cloud | Anaconda |
-|:-------:|:------------:|:----------:|:--------:|:------:|:-----------:|:--------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | **BigQuery** 📊 | <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" title="Kaggle" alt="Kaggle" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/2508859?s=200&v=4" title="Posit Cloud" alt="Posit Cloud" width="55" height="55"/> | <img src="https://www.anaconda.com/imager/assetsdo/Anaconda_Logo_6aed5e2a7c.png" title="Anaconda" alt="Anaconda" width="55" height="55"/> |
+| Jupyter | Google Colab | PostgreSQL | BigQuery | Kaggle | Posit Cloud |
+|:-------:|:------------:|:----------:|:--------:|:------:|:-----------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | **BigQuery** 📊 | <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" title="Kaggle" alt="Kaggle" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/2508859?s=200&v=4" title="Posit Cloud" alt="Posit Cloud" width="55" height="55"/> |
 
 #### ☁️The Cloud ☁️:
 | Amazon Web Services | Google Cloud Platform | Microsoft Azure |
 |:-------------------:|:---------------------:|:---------------:|
 | <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" title="Amazon Web Services" alt="Amazon Web Services" width="100" height="60"/> | <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" title="Google Cloud Platform" alt="Google Cloud Platform" width="100" height="60"/> | <img src="https://azure.microsoft.com/svghandler/logos/microsoft-azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="100" height="60"/> |
+
 
 
 
