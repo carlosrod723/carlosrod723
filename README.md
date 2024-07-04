@@ -4,10 +4,10 @@
 
 - 🤖 Passionate about AI, machine learning, and deep learning. 
 - 🌱 Actively expanding my knowledge in:
-    * Python & its ML libraries (NumPy, Pandas, scikit-learn, tensorflow, etc.)
+    * Python & its ML libraries (NumPy, Pandas, Scikit-learn, Tensorflow, etc.)
     * ML models and concepts
     * Cloud ML platforms (AWS SageMaker, GCP Vertex AI)
-    * Statistic pertinent to ML
+    * Statistics pertinent to ML
     * SQL 
     * The entire ML workflow
 - 💼 Eager to apply my skills to real-world projects and open to new opportunities.
