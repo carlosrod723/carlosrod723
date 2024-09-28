@@ -1,6 +1,6 @@
 ### About Me:
 
-👋 Hi, I'm @carlosrod723! 🇩🇴
+👋 Hi, I'm @carlosrod723! 
 
 - 🤖 Passionate about AI, machine learning, and deep learning. 
 - 🌱 Actively expanding my knowledge in:
