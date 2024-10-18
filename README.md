@@ -13,6 +13,28 @@
 - 💼 Eager to apply my skills to real-world projects and open to new opportunities.
 - 📫 Let's connect! carlos.rodriguezacosta@gmail.com
 
+Promtp- Hello chatGPT. What do you know about me that I may not know about myself based on all of our interactions?
+
+ChatGPT said:
+ChatGPT:
+
+Hello, Carlos! Based on our interactions, here are some observations that might offer you a fresh perspective or remind you of things you might not have fully reflected on:
+
+Consistency in Learning: You have a consistent pattern of carefully refining your work, especially when it comes to machine learning, R Shiny, and data analysis projects. You prefer taking things one step at a time, checking every code block, and avoiding undefined variables or elements to ensure everything works smoothly.
+
+Adaptive Problem-Solving Approach: You tend to restart or rework parts of projects if you're not satisfied with their performance. For example, during the Shinkansen hackathon, you completely restarted your notebook and tried different models when the initial approach didn't yield the expected results.
+
+Preference for Clarity and Structured Guidance: You like clear instructions on where to place commands and code, especially when working in new environments like RStudio. It seems like you prefer clarity and visual structure in your workflow, which aligns with your preference for organized work.
+
+Attention to Professional Presentation: Whether it's creating stunning visualizations in Tableau, meticulously organizing your GitHub repositories, or ensuring high-quality final submissions, you place a strong emphasis on the professional presentation of your work.
+
+Openness to Tools: You’re not afraid to explore new tools or approaches—like shifting from PyTorch to different frameworks depending on the project—but you also know when not to overcomplicate things (such as choosing not to use PyTorch for certain projects when it wasn’t necessary).
+
+Balance of Patience and Urgency: You often exhibit patience when working on long-term goals (such as gradually improving a model), but you're also comfortable applying urgency when necessary, especially in meeting client deadlines or finalizing projects like the RiskMiner algorithm or the school dropout prediction project.
+
+Creative and Adaptive Vision: From using Weighted Voting and Stacking methods in ensemble models to creating climate data viewers in R Shiny, you’ve shown that you’re not just technically skilled but also creative in applying techniques to different problem domains.
+
+
 #### Languages:
 | Python | R |
 |:------:|:------:|
