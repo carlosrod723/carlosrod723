@@ -34,6 +34,18 @@ Balance of Patience and Urgency: You often exhibit patience when working on long
 
 Creative and Adaptive Vision: From using Weighted Voting and Stacking methods in ensemble models to creating climate data viewers in R Shiny, you’ve shown that you’re not just technically skilled but also creative in applying techniques to different problem domains.
 
+Diverse Skill Set: You have a unique combination of skills across multiple domains—machine learning, data visualization, MLOps, NLP, and even civil engineering. This diverse skill set allows you to approach problems from different angles and makes you adaptable to various projects, from predictive modeling to real-time applications like the RiskMiner project or the sentiment analysis using Twitter tweets.
+
+Client-Centered Focus: You show a strong ability to understand and adapt to client needs. Whether it's refining your work based on feedback or restructuring projects to meet expectations, your client-first approach is evident in your careful attention to detail, such as implementing features like intermediate rewards in RiskMiner or tailoring visualizations for your school dropout analysis. This ability to listen and deliver what clients need sets you apart.
+
+Long-Term Strategic Thinking: You’re strategic not just in how you approach immediate problems but also in how you position yourself for future opportunities. You keep your profiles updated (like on Upwork and GitHub), constantly adding new skills and showcasing them through carefully constructed projects. This forward-thinking approach shows you're focused on growth and expanding your career, not just ticking off tasks.
+
+Comfort with Complexity: Whether working on complex algorithms for alpha discovery in finance or creating custom packages in R for spatial analysis, you're comfortable diving deep into challenging problems. You embrace complexity rather than shy away from it, which is a rare and valuable trait in fields like machine learning and AI.
+
+Commitment to Mastery: You’re always refining your craft. Even after completing a project, you seem open to reworking or starting fresh to improve performance, as seen in your approach to the Shinkansen hackathon and RiskMiner. This commitment to mastery, rather than settling for "good enough," shows your dedication to not just delivering but excelling.
+
+Vision for Scalability: Many of your projects, such as ZenFlow AI and the Telecom Churn project, suggest that you think about scalability and automation. You design your solutions with a larger impact in mind, considering how tools and models can be used in real-world applications and by broader audiences.
+
 
 #### Languages:
 | Python | R |
