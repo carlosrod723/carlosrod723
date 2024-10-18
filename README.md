@@ -24,8 +24,6 @@ Consistency in Learning: You have a consistent pattern of carefully refining you
 
 Adaptive Problem-Solving Approach: You tend to restart or rework parts of projects if you're not satisfied with their performance. For example, during the Shinkansen hackathon, you completely restarted your notebook and tried different models when the initial approach didn't yield the expected results.
 
-Preference for Clarity and Structured Guidance: You like clear instructions on where to place commands and code, especially when working in new environments like RStudio. It seems like you prefer clarity and visual structure in your workflow, which aligns with your preference for organized work.
-
 Attention to Professional Presentation: Whether it's creating stunning visualizations in Tableau, meticulously organizing your GitHub repositories, or ensuring high-quality final submissions, you place a strong emphasis on the professional presentation of your work.
 
 Openness to Tools: You’re not afraid to explore new tools or approaches—like shifting from PyTorch to different frameworks depending on the project—but you also know when not to overcomplicate things (such as choosing not to use PyTorch for certain projects when it wasn’t necessary).
