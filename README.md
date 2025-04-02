@@ -7,8 +7,8 @@
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/carlosrod723?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosrod723)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/carlosrod723/Portfolio-Website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodriguez-b2534a62/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlosrod723.github.io/Portfolio-Website/)
 
 </div>
 
@@ -41,7 +41,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 - [**Telecom-Churn-Prediction**](https://github.com/carlosrod723/Telecom-Churn-Prediction) - ML project to predict customer churn in the telecom industry with data drift monitoring.
 - [**IoT-TimeSeries-Elevator-Failure-Prediction**](https://github.com/carlosrod723/IoT-TimeSeries-Elevator-Failure-Prediction) - Time series classification predicting elevator failures using IoT sensor data.
 - [**Deep-Q-Learning**](https://github.com/carlosrod723/Deep-Q-Learning) - Implementation of Deep Q-Networks (DQN) for reinforcement learning on Gymnasium environments.
-- [**Portfolio-Website**](https://github.com/carlosrod723/Portfolio-Website) - Interactive personal portfolio showcasing my data science and machine learning projects.
+- [**Portfolio-Website**](https://carlosrod723.github.io/Portfolio-Website/) - Interactive personal portfolio showcasing my data science and machine learning projects.
 
 </div>
 
@@ -214,11 +214,11 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodriguez-b2534a62/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/carlosrodacosta)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosrod723)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.rodriguezacosta@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/carlosrod723/Portfolio-Website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlosrod723.github.io/Portfolio-Website/)
 
 </div>
 
