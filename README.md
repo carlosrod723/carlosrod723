@@ -115,6 +115,26 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="48" height="48" alt="XGBoost" />
+      <br>XGBoost
+    </td>
+    <td align="center" width="96">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="48" height="48" alt="statsmodels" />
+      <br>statsmodels
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -122,20 +142,40 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=r&logoColor=white" width="48" height="48" alt="Shiny" />
+      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" width="48" height="48" alt="spaCy" />
+      <br>spaCy
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" width="48" height="48" alt="NLTK" />
+      <br>NLTK
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white" width="48" height="48" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <img src="https://plotly.com/all_static/images/icon-dash.png" width="48" height="48" alt="Plotly" />
+      <br>Plotly
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="48" height="48" alt="Streamlit" />
+      <br>Streamlit
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/rstudio/shiny/master/man/figures/logo.png" width="48" height="48" alt="Shiny" />
       <br>Shiny
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/ggplot2-blue?style=flat-square&logo=r&logoColor=white" width="48" height="48" alt="ggplot2" />
+      <img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="48" height="48" alt="ggplot2" />
       <br>ggplot2
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/XGBoost-green?style=flat-square" width="48" height="48" alt="XGBoost" />
-      <br>XGBoost
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Keras-red?style=flat-square&logo=keras&logoColor=white" width="48" height="48" alt="Keras" />
-      <br>Keras
     </td>
   </tr>
 </table>
@@ -158,10 +198,18 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="48" height="48" alt="Heroku" />
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
   </tr>
 </table>
@@ -172,6 +220,18 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white" width="48" height="48" alt="BigQuery" />
+      <br>BigQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="48" height="48" alt="DBeaver" />
+      <br>DBeaver
     </td>
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
