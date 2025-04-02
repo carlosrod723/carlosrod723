@@ -32,6 +32,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 - [**RiskMiner-Alpha-Discovery-MCTS**](https://github.com/carlosrod723/RiskMiner-Alpha-Discovery-MCTS) - Novel alpha discovery framework using Monte Carlo Tree Search with risk-seeking policies for predictive trading signals.
 - [**LSTM-Stock-Prediction**](https://github.com/carlosrod723/LSTM-Stock-Prediction) - Comprehensive LSTM-based pipeline for 7-day-ahead stock price prediction with advanced preprocessing and evaluation metrics.
 - [**Algo-Trading-Analysis**](https://github.com/carlosrod723/Algo-Trading-Analysis) - R-based algorithmic trading analysis with walk-forward optimization maintaining high performance (Sharpe ~7.27).
+- - [**Binance-API-Trading-Bot**](https://github.com/carlosrod723/Binance-API-Trading-Bot) - High-performance async trading bot built with Sanic supporting Binance and Coinbase. Features modular strategy system, comprehensive API endpoints, and dockerized deployment.
 
 </div>
 
