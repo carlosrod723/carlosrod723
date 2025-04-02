@@ -200,7 +200,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrod723&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosrod723&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosrod723&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
