@@ -84,6 +84,9 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
     </td>
   </tr>
 </table>
