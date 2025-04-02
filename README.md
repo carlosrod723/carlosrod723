@@ -154,6 +154,10 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
     <td align="center" width="96">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
     </td>
   </tr>
 </table>
