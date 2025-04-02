@@ -174,7 +174,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
       <br>Colab
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" height="48" alt="Kaggle" />
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="48" height="48" alt="Kaggle" />
       <br>Kaggle
     </td>
     <td align="center" width="96">
