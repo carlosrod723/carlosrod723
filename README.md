@@ -226,7 +226,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white" width="48" height="48" alt="BigQuery" />
+      <img src="https://carlosrod723.github.io/Portfolio-Website/images/bigquery_logo.png" width="48" height="48" alt="BigQuery" />
       <br>BigQuery
     </td>
     <td align="center" width="96">
