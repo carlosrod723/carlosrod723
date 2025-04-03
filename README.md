@@ -120,8 +120,8 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
       <br>Keras
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="48" height="48" alt="XGBoost" />
-      <br>XGBoost
+      <img src="https://carlosrod723.github.io/Portfolio-Website/images/optuna_logo.png" width="48" height="48" alt="Optuna" />
+      <br>Optuna
     </td>
     <td align="center" width="96">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
