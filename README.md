@@ -142,15 +142,15 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" width="48" height="48" alt="spaCy" />
+      <img src="https://carlosrod723.github.io/Portfolio-Website/images/spacy_logo.png" width="48" height="48" alt="spaCy" />
       <br>spaCy
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" width="48" height="48" alt="NLTK" />
+      <img src="https://carlosrod723.github.io/Portfolio-Website/images/nltk_logo.png" width="48" height="48" alt="NLTK" />
       <br>NLTK
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white" width="48" height="48" alt="LangChain" />
+      <img src="https://carlosrod723.github.io/Portfolio-Website/images/langchain_logo.png" width="48" height="48" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
@@ -166,7 +166,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
       <br>Plotly
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="48" height="48" alt="Streamlit" />
+      <img src="https://carlosrod723.github.io/Portfolio-Website/images/streamlit_logo.png" width="48" height="48" alt="Streamlit" />
       <br>Streamlit
     </td>
     <td align="center" width="96">
