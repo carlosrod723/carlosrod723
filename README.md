@@ -2,21 +2,27 @@
 
 # Carlos Rodriguez | Data Scientist & Machine Learning Engineer
 
-<div align="center">
-
-<h1>Founder of Re:klaim- More Life, Less Email</h1>
+<h1>Founder of Re:klaim — More Life, Less Email</h1>
 
 <h3><a href="https://reklaim.app">reklaim.app</a></h3>
 
-</div>
----
-<div>
-  <img src="https://img.shields.io/badge/Data_Science-AI-blue?style=for-the-badge&labelColor=black" alt="Data Science & AI">
-</div>
+<p><em>Live · Beta v1.0 · Launched January 11, 2026</em></p>
 
-[![GitHub followers](https://img.shields.io/github/followers/carlosrod723?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosrod723)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodriguez-b2534a62/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlosrod723.github.io/Portfolio-Website/)
+<br />
+
+<img src="https://img.shields.io/badge/Data_Science-AI-blue?style=for-the-badge&labelColor=black" alt="Data Science & AI">
+
+<br /><br />
+
+<a href="https://github.com/carlosrod723">
+  <img src="https://img.shields.io/github/followers/carlosrod723?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/carlos-rodriguez-b2534a62/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://carlosrod723.github.io/Portfolio-Website/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
 
