@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1>🚀 Founder of Re:klaim- More Life, Less Email</h1>
+<h1>Founder of Re:klaim- More Life, Less Email</h1>
 
 <h3><a href="https://reklaim.app">reklaim.app</a></h3>
 
