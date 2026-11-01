@@ -329,27 +329,9 @@ Risk and performance analytics for a forex and metals trading research platform:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosrod723&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrod723&layout=compact&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosrod723&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-## 📊 Latest Contributions
-<div align="center">
-  
-<!-- This section will display when you set up the GitHub Action for contribution graph snake animation -->
-<!-- To set it up: Create .github/workflows/github-contribution-grid-snake.yml in your profile repo -->
-
-<!-- Custom GitHub contribution visual -->
-<a href="https://github.com/carlosrod723">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosrod723&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
-</a>
-
-</div>
-
 
 ## 🤝 Connect With Me
 
