@@ -1,6 +1,6 @@
 <div align="center">
 
-# Carlos Rodriguez | Data Scientist & Machine Learning Engineer
+# Carlos Rodriguez | AI Engineer
 
 <h1>Founder of Re:klaim — More Life, Less Email</h1>
 
@@ -17,7 +17,7 @@
 <a href="https://github.com/carlosrod723">
   <img src="https://img.shields.io/github/followers/carlosrod723?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/carlos-rodriguez-b2534a62/">
+<a href="https://www.linkedin.com/in/carlos-rodriguez-acosta-b2534a62/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://carlosrod723.github.io/Portfolio-Website/">
@@ -28,15 +28,53 @@
 
 ## 👨‍💻 About Me
 
-I'm a data scientist and machine learning engineer with expertise in predictive modeling, time series analysis, and NLP. I specialize in developing end-to-end ML solutions from data preprocessing to deployment, with experience across finance, retail, healthcare, and climate domains.
+I build production AI systems end to end, from the first conversation about the problem to a system running in production. Most of my recent work lives in private repositories, for clients and for my own product, so it's described below rather than linked.
 
-- 🔭 Focused on AI/ML solutions that solve real business problems
-- 🌱 Currently exploring reinforcement learning and MLOps
-- 💼 Open to collaboration on innovative data science projects
-- 📊 Experienced with cloud ML platforms (AWS, GCP, Azure)
+- 🚀 Built Re:klaim alone, from the first line of code to production
+- 📏 Choose models with evals, not instinct, and measure quality and cost in production
+- 🏛️ Shipped search and AI systems for a national government agency, onto their own servers
+- 🌎 Based in Santo Domingo, working with teams anywhere, in English and Spanish
 - 📫 Reach me at: carlos.rodriguezacosta@gmail.com
 
-## 🚀 Featured Projects
+## 🚀 What I've Built
+
+<div class="project-grid">
+
+<div class="project-category">
+
+### ✉️ Re:klaim · [reklaim.app](https://reklaim.app)
+An AI email platform I built alone, from the first line of code to production. It drafts replies in each user's own voice and stays in sync with Gmail and Outlook.
+- 144,000+ production syncs at a 0.012% failure rate
+- Passed Google's CASA Tier 2 third-party security audit; verified Microsoft publisher
+- Models chosen with evals: a 12-model comparison found top quality at one eighth of the cost, and a rule-breach test picked a model with 0% breaches against 17.9% for the runner-up
+
+</div>
+
+<div class="project-category">
+
+### 🔎 Search for a National Government Agency · [live catalogue](https://datosabiertos.dgcp.gob.do/catalogobys)
+Search over the Dominican Republic's national catalogue of 16,900+ product and service categories that understands Spanish the way people actually type it: missing accents, synonyms and typos. It replaced a full catalogue scan that took seconds, and shipped through the agency's security review onto their own servers.
+
+</div>
+
+<div class="project-category">
+
+### 📰 RAG Research Assistant for a Mining Industry Network
+Answers grounded in 105,000+ articles, with source citations, automated ingestion from unreliable news sites, and a 447-test suite plus an evaluation harness the client wrote.
+
+</div>
+
+<div class="project-category">
+
+### 📈 Trading Research Analytics
+Risk and performance analytics for a forex and metals trading research platform: every metric cross-checked against an independent calculation, with property-based tests.
+
+</div>
+
+</div>
+
+<details>
+<summary><b>📂 Earlier open-source projects</b></summary>
 
 <div class="project-grid">
 
@@ -78,6 +116,8 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 </div>
 
 </div>
+
+</details>
 
 ## 🛠️ Technical Skills
 
@@ -315,7 +355,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodriguez-b2534a62/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodriguez-acosta-b2534a62/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/carlosrodacosta)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosrod723)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.rodriguezacosta@gmail.com)
